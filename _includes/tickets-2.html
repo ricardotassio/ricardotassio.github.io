@@ -41,5 +41,140 @@
             <span class="tickets-info">{{ site.ticketsInfo }}</span>
 		</div>
 	</div>
+	<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content modal-popup">
+            <div class="modal-header bg-info">
+                <h3 class="modal-title text-info" id="myModalLabel">Formulário de Inscrição - I SITIBA</h3></div>
+            <div class="modal-body">
+
+                <form method="post" action="bin/register.php" name="form" id="form-data" enctype="multipart/form-data" accept-charset="utf-8" class="form-horizontal">
+                    <div class="panel panel-info">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">DADOS DO PARTICIPANTE</h3>
+                        </div>
+                        <div class="panel-body">
+
+                            <div class="form-group">
+                                <label for="name" class="col-sm-2 control-label">Nome Completo</label>
+                                <div class="col-sm-10">
+                                    <input type="text" name="name" class="form-control" id="name" required data-validation-required-message="Por favor, insira seu nome completo." placeholder="Nome Completo">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="born_date" class="col-sm-2 control-label">Data de Nascimento</label>
+                                <div class="col-sm-10">
+                                    <input type="text" name="born_date" maxlength="10" class="form-control" id="born_date" required data-validation-required-message="Por favor, insira sua data de nascimento." placeholder="Data de Nascimento">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="address" class="col-sm-2 control-label">Endereço</label>
+                                <div class="col-sm-10">
+                                    <input type="text" name="address" class="form-control" id="address" required data-validation-required-message="Por favor, insira seu endereço." placeholder="Endereço">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="district" class="col-sm-2 control-label">Bairro</label>
+                                <div class="col-sm-4">
+                                    <input type="text" name="district" class="form-control" id="district" required data-validation-required-message="Por favor, insira seu bairro." placeholder="Bairro">
+                                </div>
+
+                                <label for="city" class="col-sm-2 control-label">Cidade</label>
+                                <div class="col-sm-4">
+                                    <input type="text" name="city" class="form-control" id="city" required data-validation-required-message="Por favor, insira sua cidade." placeholder="Cidade">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="phone" class="col-sm-2 control-label">Telefone/WhatsApp</label>
+                                <div class="col-sm-10">
+                                    <input type="text" name="phone" maxlength="15" class="form-control" id="phone" required data-validation-required-message="Por favor, insira seu celular." placeholder="Telefone Celular">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="email" class="col-sm-2 control-label">E-mail</label>
+                                <div class="col-sm-10">
+                                    <input type="email" name="email" class="form-control" id="email" required data-validation-required-message="Por favor, insira seu email." placeholder="E-mail">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-info">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">TIPO DE INSCRIÇÃO</h3>
+                        </div>
+                        <div class="panel-body">
+                            <div class="form-group">
+                                <label for="professional-0" class="col-sm-2 control-label">Profissional</label>
+                                <div class="col-sm-4">
+                                    <input type="radio" class="professional" name="professional" id="professional-0" value="1" required data-validation-required-message="Por favor, defina como você vai participar.">
+                                    <label for="professional-0">Sim</label>
+                                </div>
+
+                                <div class="col-sm-4">
+                                    <input type="radio" class="professional" name="professional" id="professional-1" value="0" required data-validation-required-message="Por favor, defina como você vai participar.">
+                                    <label for="professional-1">Não</label>
+                                </div>
+                            </div>
+
+                            <div class="form-group" id="professional-type-container" style="display: none;">
+                                <label for="professional-type" class="col-sm-2 control-label">Escolha sua forma de inscrição</label>
+                                <div class="col-sm-10">
+                                    <select name="professional_type" class="form-control" id="professional-type" data-validation-required-message="Por favor, defina qual profissional você é.">
+                                        <option value="" disabled selected>Selecione...</option>
+                                        <option value="1">Profissionais médicos ASSOCIADOS a AMIB/SOTIBA</option>
+                                        <option value="2">Profissionais médicos NÃO ASSOCIADOS a AMIB/SOTIBA</option>
+                                        <option value="3">Profissionais de outras áreas ASSOCIADOS a AMIB/SOTIBA</option>
+                                        <option value="4">Profissionais de outras áreas NÃO ASSOCIADOS a AMIB/SOTIBA</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-success progress-bar-striped active" style="width: 0%;">
+                                    <span class="percent">0%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div id="status" class="center-block">
+
+                    </div>
+
+                    <div id="bag" class="alert alert-danger" style="display: none;">
+
+                    </div>
+
+                    <div class="form-group" id="buttons">
+                        <div class="col-sm-offset-9 col-sm-1">
+                            <button type="reset" class="btn btn-danger">Apagar</button>
+                        </div>
+                        <div class="col-sm-1" style="margin-left: 10px;">
+                            <button type="submit" class="btn btn-info">Enviar</button>
+                        </div>
+                    </div>
+
+                </form>
+                <div class="form-group" >
+                    <div class="col-sm-offset-9" id="pagseguro">
+
+                    </div>
+                </div>
+                <div class="modal-footer bg-info"><button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button></div>
+            </div>
+        </div>
+    </div>
 </section>
+
+
 <!-- End Tickets 2 Section -->
