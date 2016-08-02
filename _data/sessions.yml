@@ -43,6 +43,30 @@
   presentation: ""
 -
   id: 003
+  title: "Pneumointensivismo"
+  description: "
+  SARA
+  Hipertensão Pulmonar
+  Ventilação Mecânica – modos não convencionais"
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 004
+  title: "Paciente Séptico na UTI"
+  description: "Sepse Surviving – o que aconteceu desde o SSC de 2012 Novas definições – Devemos seguir?
+Antifungico – quando pensar e como tratar? Programa de Antibiotico “stewardship” – como fazer? Controle de Germes Multi Resistentes."
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 005
   title: "Pneumologia"
   description: "
   Hipertensão Pulmonar
@@ -54,7 +78,7 @@
   presentation: ""
   video: ""
 -
-  id: 004
+  id: 006
   title: "Suporte Avançado de Vida em Cardiologia"
   description: "Atualização dos Guidlines
   O pré hospitalar no cenário da RCP
@@ -67,7 +91,7 @@
   presentation: ""
   video: ""
 -
-  id: 005
+  id: 007
   title: "O cardiopata Grave na UTI"
   description: "Hemodinâmica – Qual o alcance no doente crítico BIA – quando indicar
   Manejo do paciente após circulação extra corpórea."
@@ -78,7 +102,7 @@
   presentation: ""
   video: ""
 -
-  id: 006
+  id: 008
   title: "Sedação e Analgesia"
   description: "Delirium – Os desafios do diagnóstico e tratamento Dexmedetomedine x Midazolan
 Protocolo de Analgo sedação – como eu faço."
@@ -89,18 +113,7 @@ Protocolo de Analgo sedação – como eu faço."
   presentation: ""
   video: ""
 -
-  id: 007
-  title: "Sedação e Analgesia"
-  description: "Delirium – Os desafios do diagnóstico e tratamento Dexmedetomedine x Midazolan
-  Protocolo de Analgo sedação – como eu faço."
-  subtype: apresentação
-  speakers: []
-  language: pt
-  complexity: ""
-  presentation: ""
-  video: ""
--
-  id: 008
+  id: 009
   title: "Paciente Politraumatizado"
   description: "Distúrbios de coagulação."
   subtype: apresentação
@@ -110,7 +123,7 @@ Protocolo de Analgo sedação – como eu faço."
   presentation: ""
   video: ""
 -
-  id: 009
+  id: 010
   title: "Monitorização Hemodinâmica"
   description: ""
   subtype: apresentação
@@ -120,7 +133,7 @@ Protocolo de Analgo sedação – como eu faço."
   presentation: ""
   video: ""
 -
-  id: 010
+  id: 011
   title: "Fluidos"
   description: "Cristalóides x Colóides, quando? Qual? Quanto?"
   subtype: apresentação
@@ -130,7 +143,7 @@ Protocolo de Analgo sedação – como eu faço."
   presentation: ""
   video: ""
 -
-  id: 011
+  id: 012
   title: "Ecocardiografia na UTI"
   description: ""
   subtype: apresentação
@@ -140,7 +153,7 @@ Protocolo de Analgo sedação – como eu faço."
   presentation: ""
   video: ""
 -
-  id: 012
+  id: 013
   title: "Multidisiciplinariedade"
   description: "• Integridade da pele do paciente crítico
 • Disfagia – Como tratar
