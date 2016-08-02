@@ -11,49 +11,150 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Neurointensivismo"
+  description: "
+  - Neuroproteção e monitorização neurológica
+  - Hipotermia – Quais as evidências?
+    Em que situações? Como fazer e para qual paciente?
+  - AVCi – O estado da arte
+  - Controle pressórico no AVCi
+  - Manejo da HSA – Diagnóstico e manejo clínico e cirúrgico"
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Mesa redonda"
+  description: "Abordando os seguintes temas:
+   - O paciente cirúrgico crítico
+   - Manejo peri e pós operatório
+   - Pós operatório de Cirurgia cardíaca:
+     O que esse paciente tem de diferente
+   - Sindrome Compartimental Abdominal"
   subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+  presentation: ""
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Pneumologia"
+  description: "
+  Hipertensão Pulmonar
+  Ventilação Mecânica – modos não convencionais Mobilização precoce – a verdadeira fisioterapia?"
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Suporte Avançado de Vida em Cardiologia"
+  description: "Atualização dos Guidlines
+  O pré hospitalar no cenário da RCP
+  IAM – algo novo?
+  Inovações em RCP – o que o futuro nos reserva?"
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "O cardiopata Grave na UTI"
+  description: "Hemodinâmica – Qual o alcance no doente crítico BIA – quando indicar
+  Manejo do paciente após circulação extra corpórea."
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 006
+  title: "Sedação e Analgesia"
+  description: "Delirium – Os desafios do diagnóstico e tratamento Dexmedetomedine x Midazolan
+Protocolo de Analgo sedação – como eu faço."
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 007
+  title: "Sedação e Analgesia"
+  description: "Delirium – Os desafios do diagnóstico e tratamento Dexmedetomedine x Midazolan
+  Protocolo de Analgo sedação – como eu faço."
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 008
+  title: "Paciente Politraumatizado"
+  description: "Distúrbios de coagulação."
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 009
+  title: "Monitorização Hemodinâmica"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 010
+  title: "Fluidos"
+  description: "Cristalóides x Colóides, quando? Qual? Quanto?"
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 011
+  title: "Ecocardiografia na UTI"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 012
+  title: "Multidisiciplinariedade"
+  description: "• Integridade da pele do paciente crítico
+• Disfagia – Como tratar
+• Segurança do paciente na UTI – responsabilidade compartilhada
+• Cuidados de enfermagem na sepse grave
+• Manejo Seguro de Medicações na UTI: o papel da enfermagem
+• Dispositivos invasivos – cuidados de enfermagem
+• Curativos complexos na UTI
+• O papel da odontologia no combate à sepse
+• Decisões de Terminalidade na UTI
+• Terapia nutricional no doente crí"
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
