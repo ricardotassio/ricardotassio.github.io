@@ -2,7 +2,7 @@
   date: "2016-09-16"
   dateReadable: "16 de Setembro"
   tracks:
-    - {title: "Palestra", color: "#90be4e"}
+    - {title: "Programação", color: "#90be4e"}
 
   timeslots:
     - {
@@ -24,7 +24,7 @@
   date: "2016-09-17"
   dateReadable: "17 de Setembro"
   tracks:
-    - {title: "Palestra", color: "#90be4e"}
+    - {title: "Programação", color: "#90be4e"}
     # - {title: "Curso", color: "#03a9f4"}
   timeslots:
     - {
