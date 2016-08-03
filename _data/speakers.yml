@@ -8,6 +8,17 @@
 Superintende Técnico do Instituto Gerir"
   thumbnailUrl: palestrante01.jpg
   rockstar: true
+-
+  id: 5
+  name: "Marcos Barojas"
+  surname: "Teles"
+  # company: ""
+  title: "Especialista em Cardiologia pela SBC"
+  bio: "Vice Coordenador UCO Hospital Português Instrutor ACLS e TECA A e SAVIC.                       Med assist Amb IC - Hospital Santa Isabel
+        Diretor centro terapêutico Maximo ravenna.
+        Felollow da European Society of Cardiology."
+  thumbnailUrl: palestrante02.jpeg
+  rockstar: true
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}

@@ -138,7 +138,29 @@ ticketsTitle: "Ingressos"
 ticketsInfo: "Aproveite e garanta logo o seu ingresso no 1º Lote."
 ticketsOffers:
  -
-  name: "1º Lote (Médicos Associados)"
+  name: "Curso de Via Aérea (Médicos Associados AMIB/SOTIBA ou Outros profissionais)"
+  price: "300"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  #ribbon: "-20%"
+  buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01MDA08"
+  buyButtonText: "Comprar"
+  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  validFrom: "2016-07-28T10:00"
+  validThrough: "2016-08-16T23:59"
+ -
+  name: "Curso de Via Aérea (Médicos Não Associado AMIB/SOTIBA)"
+  price: "340"
+  priceCurrency: "R$"
+  ticketsNumber: ""
+  #ribbon: "-20%"
+  buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01MDA08"
+  buyButtonText: "Comprar"
+  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  validFrom: "2016-07-28T10:00"
+  validThrough: "2016-08-16T23:59"
+ -
+  name: "1º Lote (Médicos Associados AMIB/SOTIBA)"
   price: "180"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -149,7 +171,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Médicos Associados)"
+  name: "2º Lote (Médicos Associados AMIB/SOTIBA)"
   price: "200"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -160,7 +182,7 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Médicos)"
+  name: "1º Lote (Médicos Não Associados AMIB/SOTIBA)"
   price: "200"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -171,7 +193,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Médicos)"
+  name: "2º Lote (Médicos Não Associados AMIB/SOTIBA)"
   price: "220"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -182,7 +204,7 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Não Médico Associado)"
+  name: "1º Lote (Outros profissionais Associados AMIB/SOTIBA)"
   price: "100"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -193,7 +215,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Não Médico Associado)"
+  name: "2º Lote (Outros Profissionais Associado AMIB/SOTIBA)"
   price: "120"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -204,18 +226,18 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Não Médico)"
+  name: "1º Lote (Outros Profissionais Não Associado AMIB/SOTIBA )"
   price: "120"
   priceCurrency: "R$"
   ticketsNumber: ""
   #ribbon: "-20%"
-  buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01OPF08"
+  buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L0OPF08"
   buyButtonText: "Comprar"
   ticketContentList: ["Este valor permanecerá até o dia 16/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Não Médico)"
+  name: "2º Lote (Outros Profissionais Não Associdos AMIB/SOTIBA)"
   price: "140"
   priceCurrency: "R$"
   ticketsNumber: ""
