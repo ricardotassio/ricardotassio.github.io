@@ -77,8 +77,8 @@ e sindrome compartimental abdominal" }
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "inscritos", detail: "de todas as partes do estado"}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "de puro conhecimento"}
- - {count: "4", specialCharacter: "+", info: "palestrantes", detail: "de renome nacional"}
+ - {count: "16", specialCharacter: "+", info: "horas", detail: "de puro conhecimento"}
+ - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "que são referência em suas áreas de atuação"}
 
 
 # Latest News Block
