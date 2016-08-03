@@ -237,7 +237,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Outros Profissionais Não Associdos AMIB/SOTIBA)"
+  name: "2º Lote (Outros Profissionais Não Associado AMIB/SOTIBA)"
   price: "140"
   priceCurrency: "R$"
   ticketsNumber: ""
