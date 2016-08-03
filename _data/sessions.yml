@@ -1,9 +1,9 @@
 -
   id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  title: "Intervalo"
+  place: ""
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
 -
   id: 503
   title: "Lunch Break"
@@ -11,14 +11,8 @@
   service: true
 -
   id: 001
-  title: "Neurointensivismo"
-  description: "
-  - Neuroproteção e monitorização neurológica
-  - Hipotermia – Quais as evidências?
-    Em que situações? Como fazer e para qual paciente?
-  - AVCi – O estado da arte
-  - Controle pressórico no AVCi
-  - Manejo da HSA – Diagnóstico e manejo clínico e cirúrgico"
+  title: "Abertura - Boas Vindas"
+  description: ""
   subtype: apresentação
   speakers: []
   language: pt
@@ -27,13 +21,8 @@
   video: ""
 -
   id: 002
-  title: "Mesa redonda"
-  description: "Abordando os seguintes temas:
-   - O paciente cirúrgico crítico
-   - Manejo peri e pós operatório
-   - Pós operatório de Cirurgia cardíaca:
-     O que esse paciente tem de diferente
-   - Sindrome Compartimental Abdominal"
+  title: "Segurança e Qualidade em Terapia Intensiva"
+  description: ""
   subtype: presentation
   speakers: []
   language: pt
@@ -43,108 +32,150 @@
   presentation: ""
 -
   id: 003
-  title: "Pneumointensivismo"
-  description: "
-  SARA
-  Hipertensão Pulmonar
-  Ventilação Mecânica – modos não convencionais"
-  subtype: apresentação
+  title: "MesaRedendo: O paciente Cirúrgico na UTI"
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 004
-  title: "Paciente Séptico na UTI"
-  description: "Sepse Surviving – o que aconteceu desde o SSC de 2012 Novas definições – Devemos seguir?
-Antifungico – quando pensar e como tratar? Programa de Antibiotico “stewardship” – como fazer? Controle de Germes Multi Resistentes."
-  subtype: apresentação
+  title: "Manejo peri operatório dos pacientens do alto risco"
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 005
-  title: "Pneumologia"
-  description: "
-  Hipertensão Pulmonar
-  Ventilação Mecânica – modos não convencionais Mobilização precoce – a verdadeira fisioterapia?"
-  subtype: apresentação
+  title: "Assistência da enfermagem no Pós Operatório do doente crítico."
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 006
-  title: "Suporte Avançado de Vida em Cardiologia"
-  description: "Atualização dos Guidlines
-  O pré hospitalar no cenário da RCP
-  IAM – algo novo?
-  Inovações em RCP – o que o futuro nos reserva?"
-  subtype: apresentação
+  title: "Pós operatório de Cirurgia cardíaca:"
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 007
-  title: "O cardiopata Grave na UTI"
-  description: "Hemodinâmica – Qual o alcance no doente crítico BIA – quando indicar
-  Manejo do paciente após circulação extra corpórea."
-  subtype: apresentação
+  title: "Terapia Nutricional no PO de cirurgia abdominal "
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 008
-  title: "Sedação e Analgesia"
-  description: "Delirium – Os desafios do diagnóstico e tratamento Dexmedetomedine x Midazolan
-Protocolo de Analgo sedação – como eu faço."
-  subtype: apresentação
+  title: "Discussão"
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 009
-  title: "Paciente Politraumatizado"
-  description: "Distúrbios de coagulação."
-  subtype: apresentação
+  title: "Sedação e Analgesia - estado da Arte"
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 010
-  title: "Monitorização Hemodinâmica"
+  title: "Mesa redonda - Neurointensivismo"
   description: ""
-  subtype: apresentação
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 011
-  title: "Fluidos"
-  description: "Cristalóides x Colóides, quando? Qual? Quanto?"
-  subtype: apresentação
+  title: "Hipotermia terapêutica: evidência para uso"
+  description: ""
+  subtype: presentation
   speakers: []
   language: pt
   complexity: ""
   presentation: ""
   video: ""
+  presentation: ""
 -
   id: 012
-  title: "Ecocardiografia na UTI"
+  title: "Mudando o prognóstico com mobilização precoce"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+  presentation: ""
+-
+  id: 013
+  title: "Terapia tromobolítica no AVC isquêmico"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+  presentation: ""
+-
+  id: 014
+  title: "Controle Pressórico no AVCI"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+  presentation: ""
+-
+  id: 015
+  title: "SEPSE-3: Novas definições e implicações"
+  description: ""
+  subtype: presentation
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+  presentation: ""
+-
+  id: 016
+  title: "O paciente séptico na UTI"
   description: ""
   subtype: apresentação
   speakers: []
@@ -153,18 +184,269 @@ Protocolo de Analgo sedação – como eu faço."
   presentation: ""
   video: ""
 -
-  id: 013
-  title: "Multidisiciplinariedade"
-  description: "• Integridade da pele do paciente crítico
-• Disfagia – Como tratar
-• Segurança do paciente na UTI – responsabilidade compartilhada
-• Cuidados de enfermagem na sepse grave
-• Manejo Seguro de Medicações na UTI: o papel da enfermagem
-• Dispositivos invasivos – cuidados de enfermagem
-• Curativos complexos na UTI
-• O papel da odontologia no combate à sepse
-• Decisões de Terminalidade na UTI
-• Terapia nutricional no doente crí"
+  id: 017
+  title: "Estratégia para uso relacional de antibióticos: programa stewardship"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 018
+  title: "Estratégia de controle de agentes MDR"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 019
+  title: "Diagnóstico e tratamento do condióemia"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 020
+  title: "Novas opções no tratamento stafilo multi R"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 021
+  title: "Discussão"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 022
+  title: "Manejo Seguro de medicações na UTI"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 023
+  title: "Como acessar a perfusão tecidual do doente crítico?"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 024
+  title: "Discussão"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 025
+  title: "Pró e contra (intenção de abordar com enfoque prático ARISE/PROCESS e PROMISE)"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 026
+  title: "Pró terapia Guiada por metas"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 027
+  title: "Contra terapia Guiada por metas"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 028
+  title: "Discussão"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 029
+  title: "SIMPÓSIO SATÉLITE: com lunch box - SANOFI"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 030
+  title: "SEPSE-3:Novas definições e implicações"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 031
+  title: "Mesa Redonda: CARDIOINTENSIVISMO"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 032
+  title: "IAM"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 033
+  title: "Difusão Grave de VE"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 034
+  title: "PCR: revisão da diretriz atual"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 035
+  title: "Discussão"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 036
+  title: "Nefrointensivismo"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 037
+  title: "Caso clínico - SARA GRAVE"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 038
+  title: "Avanço de ultrassonografia na terapia intensiva"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 039
+  title: "Na abordagem do choque"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 040
+  title: "Na abordagem do IRpA"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 041
+  title: "No auxílio para procedimentos"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 042
+  title: "No auxílio para procedimentos"
+  description: ""
+  subtype: apresentação
+  speakers: []
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 043
+  title: "Discussão"
+  description: ""
   subtype: apresentação
   speakers: []
   language: pt
