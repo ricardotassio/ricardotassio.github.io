@@ -160,7 +160,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "1º Lote (Médicos Associados AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - primeiro Lote (Médicos Associados AMIB/SOTIBA)"
   price: "180"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -171,7 +171,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Médicos Associados AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - segundo Lote (Médicos Associados AMIB/SOTIBA)"
   price: "200"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -182,7 +182,7 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Médicos Não Associados AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - primeiro Lote (Médicos Não Associados AMIB/SOTIBA)"
   price: "200"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -193,7 +193,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Médicos Não Associados AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - segundo Lote (Médicos Não Associados AMIB/SOTIBA)"
   price: "220"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -204,7 +204,7 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Outros profissionais Associados AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - primeiro Lote (Outros profissionais Associados AMIB/SOTIBA)"
   price: "100"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -215,7 +215,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Outros Profissionais Associado AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - segundo Lote (Outros Profissionais Associado AMIB/SOTIBA)"
   price: "120"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -226,7 +226,7 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Outros Profissionais Não Associado AMIB/SOTIBA )"
+  name: "Inscrição no SITIBA - primeiro Lote (Outros Profissionais Não Associado AMIB/SOTIBA )"
   price: "120"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -237,7 +237,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Outros Profissionais Não Associado AMIB/SOTIBA)"
+  name: "Inscrição no SITIBA - segundo Lote (Outros Profissionais Não Associado AMIB/SOTIBA)"
   price: "140"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -248,7 +248,7 @@ ticketsOffers:
   validFrom: "2016-08-17T10:00"
   validThrough: "2016-09-15T23:59"
  -
-  name: "1º Lote (Estudante)"
+  name: "Inscrição no SITIBA - primeiro Lote (Estudante)"
   price: "80"
   priceCurrency: "R$"
   ticketsNumber: ""
@@ -259,7 +259,7 @@ ticketsOffers:
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
-  name: "2º Lote (Estudante)"
+  name: "Inscrição no SITIBA - segundo Lote (Estudante)"
   price: "100"
   priceCurrency: "R$"
   ticketsNumber: ""
