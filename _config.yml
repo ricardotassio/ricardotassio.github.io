@@ -102,9 +102,9 @@ eventAddressCountry: "Brasil"
 eventStartTime: "2016-09-16T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2016-09-17T18:00"
-eventPlaceCoordinates: "-12.2585924,-38.9336747"
-mapCenterCoordinates: "-12.2585924,-38.9336747"
-mapMobileCenterCoordinates: "-12.2585924,-38.9336747"
+eventPlaceCoordinates: "-12.259839,-38.943694"
+mapCenterCoordinates: "-12.259839,-38.9458827,17"
+mapMobileCenterCoordinates: "-12.259839,-38.943694"
 
 # Venue Block
 venueBlockTitle: "Local"
