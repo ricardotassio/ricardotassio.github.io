@@ -1,6 +1,6 @@
 -
   id: 5
-  name: "José Mário Meira"
+  name: "Dr. José Mário Meira"
   surname: "Teles"
   # company: ""
   title: "Médico intensivista"
@@ -10,7 +10,7 @@ Superintende Técnico do Instituto Gerir"
   rockstar: true
 -
   id: 6
-  name: "Marcos"
+  name: "Dr. Marcos"
   surname: "Barojas"
   # company: ""
   title: "Especialista em Cardiologia pela SBC"
@@ -31,7 +31,7 @@ Superintende Técnico do Instituto Gerir"
   rockstar: true
 -
   id: 8
-  name: "Tarsis Leonardo Almeida"
+  name: "Dr. Tarsis Leonardo Almeida"
   surname: "Farias"
   # company: ""
   title: "Neurologista e Neurofisiologista com subespecializacao em Distúrbios do Movimento"
