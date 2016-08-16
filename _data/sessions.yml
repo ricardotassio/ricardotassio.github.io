@@ -5,6 +5,12 @@
   service: true
   description: ""
 -
+  id: 309
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+-
   id: 503
   title: "Lunch Break"
   place: "Dining room"
@@ -23,8 +29,8 @@
   id: 002
   title: "Segurança e Qualidade em Terapia Intensiva"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [5]
   language: pt
   complexity: ""
   presentation: ""
@@ -32,9 +38,9 @@
   presentation: ""
 -
   id: 003
-  title: "MesaRedendo: O paciente Cirúrgico na UTI"
+  title: "Mesa Redonda: O paciente Cirúrgico na UTI"
   description: ""
-  subtype: presentation
+  subtype: Mesa Redonda
   speakers: []
   language: pt
   complexity: ""
@@ -43,9 +49,9 @@
   presentation: ""
 -
   id: 004
-  title: "Manejo peri operatório dos pacientens do alto risco"
+  title: "Manejo peri operatório dos pacientens de alto risco"
   description: ""
-  subtype: presentation
+  subtype: apresentação
   speakers: []
   language: pt
   complexity: ""
@@ -54,9 +60,9 @@
   presentation: ""
 -
   id: 005
-  title: "Assistência da enfermagem no Pós Operatório do doente crítico."
+  title: "Assistência de enfermagem no Pós Operatório do doente crítico"
   description: ""
-  subtype: presentation
+  subtype: apresentação
   speakers: []
   language: pt
   complexity: ""
@@ -65,10 +71,10 @@
   presentation: ""
 -
   id: 006
-  title: "Pós operatório de Cirurgia cardíaca:"
+  title: "Pós operatório de Cirurgia cardíaca"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [12]
   language: pt
   complexity: ""
   presentation: ""
@@ -76,10 +82,10 @@
   presentation: ""
 -
   id: 007
-  title: "Terapia Nutricional no PO de cirurgia abdominal "
+  title: "Terapia Nutricional no Pós Operatório de cirurgia abdominal"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [16]
   language: pt
   complexity: ""
   presentation: ""
@@ -89,7 +95,7 @@
   id: 008
   title: "Discussão"
   description: ""
-  subtype: presentation
+  subtype: apresentação
   speakers: []
   language: pt
   complexity: ""
@@ -98,10 +104,10 @@
   presentation: ""
 -
   id: 009
-  title: "Sedação e Analgesia - estado da Arte"
+  title: "Sedação e Analgesia - estado de arte"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [5]
   language: pt
   complexity: ""
   presentation: ""
@@ -111,7 +117,7 @@
   id: 010
   title: "Mesa redonda - Neurointensivismo"
   description: ""
-  subtype: presentation
+  subtype: apresentação
   speakers: []
   language: pt
   complexity: ""
@@ -120,10 +126,10 @@
   presentation: ""
 -
   id: 011
-  title: "Hipotermia terapêutica: evidência para uso"
+  title: "Prevenção de lesão secundária"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [17]
   language: pt
   complexity: ""
   presentation: ""
@@ -133,7 +139,7 @@
   id: 012
   title: "Mudando o prognóstico com mobilização precoce"
   description: ""
-  subtype: presentation
+  subtype: apresentação
   speakers: []
   language: pt
   complexity: ""
@@ -142,10 +148,10 @@
   presentation: ""
 -
   id: 013
-  title: "Terapia tromobolítica no AVC isquêmico"
+  title: "Terapia trombolítica no AVC isquêmico"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [10]
   language: pt
   complexity: ""
   presentation: ""
@@ -153,10 +159,10 @@
   presentation: ""
 -
   id: 014
-  title: "Controle Pressórico no AVCI"
+  title: "Manejo clínico da HSA"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [8]
   language: pt
   complexity: ""
   presentation: ""
@@ -166,8 +172,8 @@
   id: 015
   title: "SEPSE-3: Novas definições e implicações"
   description: ""
-  subtype: presentation
-  speakers: []
+  subtype: apresentação
+  speakers: [7]
   language: pt
   complexity: ""
   presentation: ""
@@ -177,7 +183,7 @@
   id: 016
   title: "O paciente séptico na UTI"
   description: ""
-  subtype: apresentação
+  subtype: Mesa redonda
   speakers: []
   language: pt
   complexity: ""
@@ -185,7 +191,7 @@
   video: ""
 -
   id: 017
-  title: "Estratégia para uso relacional de antibióticos: programa stewardship"
+  title: "Estratégia para uso relacional de antibióticos: programa <i>stewardship</i>"
   description: ""
   subtype: apresentação
   speakers: []
@@ -193,32 +199,32 @@
   complexity: ""
   presentation: ""
   video: ""
--
-  id: 018
-  title: "Estratégia de controle de agentes MDR"
-  description: ""
-  subtype: apresentação
-  speakers: []
-  language: pt
-  complexity: ""
-  presentation: ""
-  video: ""
+#-
+#  id: 018
+#  title: "Estratégia de controle de agentes MDR"
+#  description: ""
+#  subtype: apresentação
+#  speakers: []
+#  language: pt
+#  complexity: ""
+#  presentation: ""
+#  video: ""
 -
   id: 019
-  title: "Diagnóstico e tratamento do condióemia"
+  title: "Tratamento de infecções por germes MDR gram negativos"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [7]
   language: pt
   complexity: ""
   presentation: ""
   video: ""
 -
   id: 020
-  title: "Novas opções no tratamento stafilo multi R"
+  title: "Diagnóstico e tratamento da candidemia"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [14]
   language: pt
   complexity: ""
   presentation: ""
@@ -235,7 +241,7 @@
   video: ""
 -
   id: 022
-  title: "Manejo Seguro de medicações na UTI"
+  title: "Manejo seguro de medicações na UTI"
   description: ""
   subtype: apresentação
   speakers: []
@@ -248,24 +254,24 @@
   title: "Como acessar a perfusão tecidual do doente crítico?"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [13]
   language: pt
   complexity: ""
   presentation: ""
   video: ""
--
-  id: 024
-  title: "Discussão"
-  description: ""
-  subtype: apresentação
-  speakers: []
-  language: pt
-  complexity: ""
-  presentation: ""
-  video: ""
+#-
+#  id: 024
+#  title: "Discussão"
+#  description: ""
+#  subtype: apresentação
+#  speakers: []
+#  language: pt
+#  complexity: ""
+#  presentation: ""
+#  video: ""
 -
   id: 025
-  title: "Pró e contra (intenção de abordar com enfoque prático ARISE/PROCESS e PROMISE)"
+  title: "Terapia guiada por metas na sepse"
   description: ""
   subtype: apresentação
   speakers: []
@@ -275,7 +281,7 @@
   video: ""
 -
   id: 026
-  title: "Pró terapia Guiada por metas"
+  title: "PRO"
   description: ""
   subtype: apresentação
   speakers: []
@@ -285,7 +291,7 @@
   video: ""
 -
   id: 027
-  title: "Contra terapia Guiada por metas"
+  title: "CON"
   description: ""
   subtype: apresentação
   speakers: []
@@ -305,7 +311,7 @@
   video: ""
 -
   id: 029
-  title: "SIMPÓSIO SATÉLITE: com lunch box - SANOFI"
+  title: "Target para inicio da terapia de substituição renal"
   description: ""
   subtype: apresentação
   speakers: []
@@ -315,7 +321,7 @@
   video: ""
 -
   id: 030
-  title: "SEPSE-3:Novas definições e implicações"
+  title: "Posição PRONA - Quando, em quem, como?"
   description: ""
   subtype: apresentação
   speakers: []
@@ -335,7 +341,7 @@
   video: ""
 -
   id: 032
-  title: "IAM"
+  title: "Abordagem do IAM com supra de ST"
   description: ""
   subtype: apresentação
   speakers: []
@@ -345,7 +351,7 @@
   video: ""
 -
   id: 033
-  title: "Difusão Grave de VE"
+  title: "Dispositivos de assistência na disfunção grave do V.E"
   description: ""
   subtype: apresentação
   speakers: []
@@ -355,7 +361,7 @@
   video: ""
 -
   id: 034
-  title: "PCR: revisão da diretriz atual"
+  title: "PCR: revisão da atual diretriz"
   description: ""
   subtype: apresentação
   speakers: []
@@ -373,16 +379,16 @@
   complexity: ""
   presentation: ""
   video: ""
--
-  id: 036
-  title: "Nefrointensivismo"
-  description: ""
-  subtype: apresentação
-  speakers: []
-  language: pt
-  complexity: ""
-  presentation: ""
-  video: ""
+#-
+#  id: 036
+#  title: "Nefrointensivismo"
+#  description: ""
+#  subtype: apresentação
+#  speakers: []
+#  language: pt
+#  complexity: ""
+#  presentation: ""
+#  video: ""
 -
   id: 037
   title: "Caso clínico - SARA GRAVE"
@@ -415,7 +421,7 @@
   video: ""
 -
   id: 040
-  title: "Na abordagem do IRpA"
+  title: "Na abordagem do IRPA"
   description: ""
   subtype: apresentação
   speakers: []
@@ -435,7 +441,7 @@
   video: ""
 -
   id: 042
-  title: "No auxílio para procedimentos"
+  title: "No desmame ventilatório"
   description: ""
   subtype: apresentação
   speakers: []
