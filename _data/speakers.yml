@@ -9,7 +9,7 @@ Superintende Técnico do Instituto Gerir"
   thumbnailUrl: palestrante01.jpg
   rockstar: true
 -
-  id: 5
+  id: 6
   name: "Marcos"
   surname: "Barojas"
   # company: ""
@@ -18,6 +18,118 @@ Superintende Técnico do Instituto Gerir"
         Diretor centro terapêutico Maximo ravenna.
         Felollow da European Society of Cardiology."
   thumbnailUrl: palestrante02.jpeg
+  rockstar: true
+-
+  id: 7
+  name: "Drª. Nanci"
+  surname: "Silva"
+  # company: ""
+  title: "Infectologista"
+  bio: "Doutora em medicina interna
+        Prof da Escola Bahiana de Medicina e Saúde Pública."
+  thumbnailUrl: palestrante03.jpeg
+  rockstar: true
+-
+  id: 8
+  name: "Tarsis Leonardo Almeida"
+  surname: "Farias"
+  # company: ""
+  title: "Neurologista e Neurofisiologista com subespecializacao em Distúrbios do Movimento"
+  bio: "Preceptor da Residência de Clinica Médica do HGCA"
+  thumbnailUrl: palestrante04.jpeg
+  rockstar: true
+-
+  id: 9
+  name: "Dr. Júlio"
+  surname: "Neves"
+  # company: ""
+  title: "Especialista em Medicina Intensiva AMIB e Cirurgião Geral"
+  bio: "Vice-coordenador UTI Geral Hospital da Bahia
+        Coordenador UTI PO Cirurgia Cardiovascular e de Transplantes Hosp. Ana Nery
+        Instrutor Curso Ecografia Terapia Intensiva ECOTIN-AMIB
+        Instrutor Curso Ecografia em Medicina Intensiva e Emergencia ECHOMINE - IEP - Hospital da Bahia"
+  thumbnailUrl: palestrante05.jpeg
+  rockstar: true
+-
+  id: 10
+  name: "Dr. Murilo"
+  surname: "Souza"
+  # company: ""
+  title: "Neurologia e Neurofisiologia HCFMUSP"
+  bio: "Ex-preceptor da Residencia Médica de Neurologia HCFMUSP
+        Mestrado em Ciencias e Saúde - UFBA
+        Professor de Neurofisiologia - EBMSP
+        UTI Neurológica - Hospital São Rafael
+        Coordenador da Neurologia do Hospital Cardiopulmonar"
+  thumbnailUrl: palestrante06.jpeg
+  rockstar: true
+-
+  id: 11
+  name: "Dr. Patrick"
+  surname: "Sampaio"
+  # company: ""
+  title: "Cardiologista titulado pela SBC"
+  bio: "Ecocardiografista
+        Diarista do UTI do hospital Unimed"
+  thumbnailUrl: palestrante07.jpeg
+  rockstar: true
+-
+  id: 12
+  name: "Dr. André"
+  surname: "Guimarães"
+  # company: ""
+  title: "Cirurgiao cardiovascular titulado SBCCV"
+  bio: "Coordenador cirurgia cardíaca INCARDIO/santa casa Feira de Santana
+        Diretor médico INCARDIO
+        Coordenador do serviço de captação e transplante Feira de Santana"
+  thumbnailUrl: palestrante08.jpeg
+  rockstar: true
+-
+  id: 13
+  name: "Dr. Wagner"
+  surname: "Ribeiro"
+  # company: ""
+  title: " Intensivista titulado pela AMIB"
+  bio: "Coordenador da uti do hospital EMEC;
+        Coordenador da uti do hospital Salvador"
+  thumbnailUrl: palestrante09.jpeg
+  rockstar: true
+-
+  id: 14
+  name: "Drª. Raquel Hermes"
+  surname: "Oliveira"
+  # company: ""
+  title: "Intensivista titulada pela AMIB"
+  bio: "Diarista da UTI Adulto do Hospital Português;
+        intensivista da UTI do HUPES;
+        Pneumologista titulada pela SBPT;
+        Doutora pela Pneumologia USP- São Paulo"
+  thumbnailUrl: palestrante10.jpeg
+  rockstar: true
+-
+  id: 16
+  name: "Dr. Joaquim"
+  surname: "Paulo"
+  # company: ""
+  title: "Especialista em nutrição parenteral e enteral
+          Intensivista
+          Cirurgião Geral"
+  bio: "Coordenador da UTI dos Hospital Unimed
+        Coordenador da EMTN dos Hospitais São Matheus, Emec, HGCA, Unimed"
+  thumbnailUrl: palestrante11.jpeg
+  rockstar: true
+-
+  id: 17
+  name: "Dr. Lúcio"
+  surname: "Couto"
+  # company: ""
+  title: "Intensivista pela AMIB
+          Cirurgião Geral"
+  bio: "Coordenador das UTIS do Hgca
+        Instrutor do ACLS e ATLS
+        Supervisor técnico da MEDERI saúde domiciliar
+        Coordenador técnico e diarista da UTI do Hospital UNIMED"
+  thumbnailUrl: palestrante12.jpeg
   rockstar: true
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
