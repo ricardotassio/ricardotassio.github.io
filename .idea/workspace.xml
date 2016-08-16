@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecaf6ce2-3b5d-49b2-81ba-ea8588d418d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/speakers.yml" afterPath="$PROJECT_DIR$/_data/speakers.yml" />
-    </list>
+    <list default="true" id="ecaf6ce2-3b5d-49b2-81ba-ea8588d418d2" name="Default" comment="" />
     <ignored path="sitiba.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -36,8 +34,8 @@
       <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -194,12 +192,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471372407080</updated>
-      <workItem from="1471372408774" duration="4543000" />
+      <workItem from="1471372408774" duration="4670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4543000" />
+    <option name="totallyTimeSpent" value="4670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="23" width="1280" height="709" extended-state="0" />
@@ -250,8 +248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
           <folding />
         </state>
       </provider>
