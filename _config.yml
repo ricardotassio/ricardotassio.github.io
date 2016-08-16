@@ -62,22 +62,21 @@ typeoutTextValues: '"", "Feira de Santana"'
 typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Comprar Ingresso"}
+ - {permalink: "/#tickets", text: "Inscreva-se"}
 
 # About Block
 aboutTitle: "Sobre o evento"
 aboutBlock:
- - {title: "Palestrantes", image: "551.png", text: "Grandes nomes da área de Segurança e Qualidade em Terapia Intensiva reunidos no mesmo lugar." }
- - {title: "Mesa Redonda", image: "workshop.jpg", text: "Com o tema: O paciente cirúrgico na UTI. Serão abordados os aspectos do paciente cirúrgico crítico, manejo peri e pós operatório, pós operatório de cirurgia cardíaca,
+ - {title: "Palestrantes", image: "551.png", text: "Grandes nomes da Terapia Intensiva reunidos no mesmo lugar trazendo evidências científicas para beira do leito." }
+ - {title: "Mesas Redondas", image: "workshop.jpg", text: "Com os temas: O paciente cirúrgico na UTI, Neurointensivismo, Cárdiointensivismo, Avanço da Ultrasonografia na terapia intensiva.
 e sindrome compartimental abdominal" }
  - {title: "Curso", image: "courtse.jpg", text: "Via aérea básica e avançada das 8:00 às 12:00.
- Público alvo – (Médicos), vagas limitadas para no máximo de 20 alunos" }
+ Público alvo – (Médicos, Estudantes de Medicina, Enfermeiros e Estudantes de Enfermagem), vagas limitadas para no máximo de 20 alunos" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "inscritos", detail: "de todas as partes do estado"}
- - {count: "16", specialCharacter: "+", info: "horas", detail: "de puro conhecimento"}
+ - {count: "16", specialCharacter: "+", info: "horas", detail: "de conhecimento"}
  - {count: "10", specialCharacter: "+", info: "palestrantes", detail: "que são referência em suas áreas de atuação"}
 
 
