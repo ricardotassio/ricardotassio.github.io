@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecaf6ce2-3b5d-49b2-81ba-ea8588d418d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/call-for-papers.html" afterPath="$PROJECT_DIR$/_site/blog/call-for-papers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/hello-world.html" afterPath="$PROJECT_DIR$/_site/blog/hello-world.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/cod/index.html" afterPath="$PROJECT_DIR$/_site/cod/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/hackathon/index.html" afterPath="$PROJECT_DIR$/_site/hackathon/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/logistics/index.html" afterPath="$PROJECT_DIR$/_site/logistics/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/schedule/index.html" afterPath="$PROJECT_DIR$/_site/schedule/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/speakers/index.html" afterPath="$PROJECT_DIR$/_site/speakers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/team/index.html" afterPath="$PROJECT_DIR$/_site/team/index.html" />
     </list>
     <ignored path="sitiba.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +26,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="135" column="27" selection-start-line="135" selection-start-column="27" selection-end-line="135" selection-end-column="27" />
+            <state relative-caret-position="55">
+              <caret line="249" column="56" selection-start-line="249" selection-start-column="56" selection-end-line="249" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -187,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471372407080</updated>
-      <workItem from="1471372408774" duration="17088000" />
+      <workItem from="1471372408774" duration="17599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17088000" />
+    <option name="totallyTimeSpent" value="17599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1296" y="23" width="1280" height="677" extended-state="0" />
@@ -348,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="135" column="27" selection-start-line="135" selection-start-column="27" selection-end-line="135" selection-end-column="27" />
+        <state relative-caret-position="55">
+          <caret line="249" column="56" selection-start-line="249" selection-start-column="56" selection-end-line="249" selection-end-column="56" />
           <folding />
         </state>
       </provider>
