@@ -68,8 +68,7 @@ heroButtons:
 aboutTitle: "Sobre o evento"
 aboutBlock:
  - {title: "Palestrantes", image: "551.png", text: "Grandes nomes da Terapia Intensiva reunidos no mesmo lugar trazendo evidências científicas para beira do leito." }
- - {title: "Mesas Redondas", image: "workshop.jpg", text: "Com os temas: O paciente cirúrgico na UTI, Neurointensivismo, Cárdiointensivismo, Avanço da Ultrasonografia na terapia intensiva.
-e sindrome compartimental abdominal" }
+ - {title: "Mesas Redondas", image: "workshop.jpg", text: "Com os temas: O paciente cirúrgico na UTI, Neurointensivismo, Cárdiointensivismo, Avanço da Ultrasonografia na terapia intensiva." }
  - {title: "Curso", image: "courtse.jpg", text: "Via aérea básica e avançada das 8:00 às 12:00.
  Público alvo – (Médicos, Estudantes de Medicina, Enfermeiros e Estudantes de Enfermagem), vagas limitadas para no máximo de 20 alunos" }
 
