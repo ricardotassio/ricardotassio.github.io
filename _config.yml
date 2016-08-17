@@ -133,7 +133,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 
 # Tickets Block
-ticketsTitle: "Ingressos"
+ticketsTitle: "Ingressos (primeiro lote prorrogado até o dia 19/08)"
 ticketsInfo: "Aproveite e garanta logo o seu ingresso no 1º Lote."
 ticketsOffers:
  -
@@ -141,12 +141,12 @@ ticketsOffers:
   price: "300"
   priceCurrency: "R$"
   ticketsNumber: ""
-  #ribbon: "-20%"
+  #ribbon: "Prorrogado"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01MDA08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
-  validThrough: "2016-08-16T23:59"
+  validThrough: "2016-08-19T23:59"
  -
   name: "Curso de Via Aérea (Médicos Não Associado AMIB/SOTIBA)"
   price: "340"
@@ -155,7 +155,7 @@ ticketsOffers:
   #ribbon: "-20%"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01MDA08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-16T23:59"
  -
@@ -166,9 +166,9 @@ ticketsOffers:
   #ribbon: "-20%"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01MDA08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
-  validThrough: "2016-08-16T23:59"
+  validThrough: "2016-08-19T23:59"
  -
   name: "Inscrição no SITIBA - segundo Lote (Médicos Associados AMIB/SOTIBA)"
   price: "200"
@@ -188,9 +188,9 @@ ticketsOffers:
   #ribbon: "-20%"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01MD08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
-  validThrough: "2016-08-16T23:59"
+  validThrough: "2016-08-19T23:59"
  -
   name: "Inscrição no SITIBA - segundo Lote (Médicos Não Associados AMIB/SOTIBA)"
   price: "220"
@@ -210,9 +210,9 @@ ticketsOffers:
   #ribbon: "-20%"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01OPFA08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
-  validThrough: "2016-08-16T23:59"
+  validThrough: "2016-08-19T23:59"
  -
   name: "Inscrição no SITIBA - segundo Lote (Outros Profissionais Associado AMIB/SOTIBA)"
   price: "120"
@@ -232,9 +232,9 @@ ticketsOffers:
   #ribbon: "-20%"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L0OPF08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
-  validThrough: "2016-08-16T23:59"
+  validThrough: "2016-08-19T23:59"
  -
   name: "Inscrição no SITIBA - segundo Lote (Outros Profissionais Não Associado AMIB/SOTIBA)"
   price: "140"
@@ -254,9 +254,9 @@ ticketsOffers:
   #ribbon: "-20%"
   buyButtonLink: "http://www.mederi.com.br/sitiba?cod=L01EST08"
   buyButtonText: "Comprar"
-  ticketContentList: ["Este valor permanecerá até o dia 16/08"]
+  ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
-  validThrough: "2016-08-16T23:59"
+  validThrough: "2016-08-19T23:59"
  -
   name: "Inscrição no SITIBA - segundo Lote (Estudante)"
   price: "100"
