@@ -131,6 +131,16 @@ Superintende Técnico do Instituto Gerir"
         Coordenador técnico e diarista da UTI do Hospital UNIMED"
   thumbnailUrl: palestrante12.jpeg
   rockstar: true
+-
+  id: 18
+  name: "Dr. Ricardo Gassmann"
+  surname: "Figueiredo"
+  # company: ""
+  title: "Pneumologista"
+  bio: "Prof. Pneumologia na Universidade Estadual de Feira de Santana - UEFS
+        Coordenador da Liga Acadêmica de Cardiopneumologia da UEFS (LACPUL)"
+  thumbnailUrl: palestrante13.jpeg
+  rockstar: true
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
