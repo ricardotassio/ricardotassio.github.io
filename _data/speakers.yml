@@ -141,6 +141,16 @@ Superintende Técnico do Instituto Gerir"
         Coordenador da Liga Acadêmica de Cardiopneumologia da UEFS (LACPUL)"
   thumbnailUrl: palestrante13.jpeg
   rockstar: true
+-
+  id: 19
+  name: "Dr. Eduardo"
+  surname: "Sad"
+  # company: ""
+  title: "Intensivista"
+  bio: "Coordenador do CTI do Hospital Luxemburgo.
+        Intensivista do Hospital Felício Rocho - BH/MG"
+  thumbnailUrl: palestrante14.jpeg
+  rockstar: true
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
