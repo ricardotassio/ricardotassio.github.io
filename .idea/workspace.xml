@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecaf6ce2-3b5d-49b2-81ba-ea8588d418d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/speakers.yml" afterPath="$PROJECT_DIR$/_data/speakers.yml" />
-    </list>
+    <list default="true" id="ecaf6ce2-3b5d-49b2-81ba-ea8588d418d2" name="Default" comment="" />
     <ignored path="sitiba.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,8 +24,8 @@
       <file leaf-file-name="speakers.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="149" column="50" selection-start-line="149" selection-start-column="50" selection-end-line="149" selection-end-column="50" />
+            <state relative-caret-position="264">
+              <caret line="143" column="1" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -197,12 +194,12 @@
       <workItem from="1471372408774" duration="17759000" />
       <workItem from="1471436255013" duration="990000" />
       <workItem from="1471494548424" duration="936000" />
-      <workItem from="1471873753158" duration="1482000" />
+      <workItem from="1471873753158" duration="1623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21167000" />
+    <option name="totallyTimeSpent" value="21308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1348" y="41" width="1280" height="677" extended-state="0" />
@@ -368,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/speakers.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="149" column="50" selection-start-line="149" selection-start-column="50" selection-end-line="149" selection-end-column="50" />
+        <state relative-caret-position="264">
+          <caret line="143" column="1" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
           <folding />
         </state>
       </provider>
