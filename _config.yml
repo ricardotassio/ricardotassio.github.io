@@ -146,6 +146,8 @@ ticketsOffers:
   ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-19T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Curso de Via Aérea (Médicos Não Associado AMIB/SOTIBA)"
   price: "340"
@@ -168,6 +170,8 @@ ticketsOffers:
   ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-19T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Inscrição no SITIBA - segundo Lote (Médicos Associados AMIB/SOTIBA)"
   price: "200"
@@ -190,6 +194,8 @@ ticketsOffers:
   ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-19T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Inscrição no SITIBA - segundo Lote (Médicos Não Associados AMIB/SOTIBA)"
   price: "220"
@@ -212,6 +218,8 @@ ticketsOffers:
   ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-19T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Inscrição no SITIBA - segundo Lote (Outros Profissionais Associado AMIB/SOTIBA)"
   price: "120"
@@ -234,6 +242,8 @@ ticketsOffers:
   ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-19T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Inscrição no SITIBA - segundo Lote (Outros Profissionais Não Associado AMIB/SOTIBA)"
   price: "140"
@@ -256,6 +266,8 @@ ticketsOffers:
   ticketContentList: ["Este valor permanecerá até o dia 19/08"]
   validFrom: "2016-07-28T10:00"
   validThrough: "2016-08-19T23:59"
+  soldOut: true
+  soldOutText: "Esgotado"
  -
   name: "Inscrição no SITIBA - segundo Lote (Estudante e Téc. de Enfermagem)"
   price: "100"
