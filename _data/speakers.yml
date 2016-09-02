@@ -160,7 +160,7 @@ Superintende Técnico do Instituto Gerir"
   bio: "Especialista em terapia intensiva pela AMIB.
   Diarista da Semi intensiva do hospital da bahia
   Diarista da UTI adulto Maternidade  Prof. José Maria Magalhães Neto"
-  thumbnailUrl: silhueta.jpeg
+  thumbnailUrl: silhueta.jpg
   rockstar: false
 -
   id: 21
@@ -174,7 +174,7 @@ Superintende Técnico do Instituto Gerir"
   Coordenadora da Comissão de Residência Multiprofissional
   do HGRS e Coordenadora da Comissão de Sistematização da Assistência de Enfermagem do HGRS.
   Docente do curso de enfermagem do Centro Universitário Estácio da Bahia."
-  thumbnailUrl: silhueta.jpeg
+  thumbnailUrl: silhueta.jpg
   rockstar: false
 -
   id: 22
@@ -185,7 +185,7 @@ Superintende Técnico do Instituto Gerir"
   bio: "Especialista em terapia intensiva pela AMIB.
   Coordenador da UTI 2 do Hospital Agenor Paiva
   Coordenador da Semi Intensiva do Hospital Roberto Santos"
-  thumbnailUrl: silhueta.jpeg
+  thumbnailUrl: silhueta.jpg
   rockstar: false
 -
   id: 23
@@ -197,8 +197,8 @@ Superintende Técnico do Instituto Gerir"
   bio: "Coordenador da residência  de terapia intensiva do hospital Santa Isabel
         coordenador da uti cirúrgica do Hospital Santa Isabel
         coordenador do serviço de medicina critica do Hospital Cardio Pulmonar"
-  thumbnailUrl: silhueta.jpeg
-  rockstar: false
+  thumbnailUrl: palestrante16.jpeg
+  rockstar: true
 -
   id: 24
   name: "Dr. Alex"
@@ -211,7 +211,7 @@ Superintende Técnico do Instituto Gerir"
         Diretor do Hospital Medicina Humana.
         Plantonista da UTI do Hospital das Clínicas.
         Preceptor da Residência de Clínica Médica do Hospital Geral Ernesto Simões Filho"
-  thumbnailUrl: silhueta.jpeg
+  thumbnailUrl: silhueta.jpg
   rockstar: false
 -
   id: 25
@@ -231,8 +231,11 @@ Superintende Técnico do Instituto Gerir"
   name: "Dr. Luciano"
   surname: "Bastos"
   # company: ""
-  title: ""
-  thumbnailUrl: silhueta.jpeg
+  title: "Cardiologista"
+  bio: "Formação em Cardiologia pelo Hospital Ana Nery/UFBA
+        Fellow de Insuficiência Cardíaca/Transplante Cardíaco Hospital Sírio-Libanês
+        Médico assistente no Incardio e Hospital São Matheus"
+  thumbnailUrl: silhueta.jpg
   rockstar: false
 -
   id: 27
@@ -240,7 +243,7 @@ Superintende Técnico do Instituto Gerir"
   surname: "Feitosa Filho"
   # company: ""
   title: ""
-  thumbnailUrl: silhueta.jpeg
+  thumbnailUrl: silhueta.jpg
   rockstar: false
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
