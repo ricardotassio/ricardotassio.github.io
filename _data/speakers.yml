@@ -133,8 +133,8 @@ Superintende Técnico do Instituto Gerir"
   rockstar: true
 -
   id: 18
-  name: "Dr. Ricardo Gassmann"
-  surname: "Figueiredo"
+  name: "Dr. Ricardo"
+  surname: "Gassmann Figueiredo"
   # company: ""
   title: "Pneumologista"
   bio: "Prof. Pneumologia na Universidade Estadual de Feira de Santana - UEFS
@@ -150,6 +150,81 @@ Superintende Técnico do Instituto Gerir"
   bio: "Coordenador do CTI do Hospital Luxemburgo.
         Intensivista do Hospital Felício Rocho - BH/MG"
   thumbnailUrl: palestrante14.jpeg
+  rockstar: true
+-
+  id: 20
+  name: "Dr. Max"
+  surname: "Pattacine"
+  # company: ""
+  title: "Intensivista"
+  bio: "Especialista em terapia intensiva pela AMIB.
+  Diarista da Semi intensiva do hospital da bahia
+  Diarista da UTI adulto Maternidade  Prof. José Maria Magalhães Neto"
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
+-
+  id: 21
+  name: "Dr. Carina"
+  surname: "Marinho Picanso"
+  # company: ""
+  title: "Intensivista"
+  bio: "Mestre em enfermagem
+  Mestre em Enfermagem, intensivista pela UFBA.
+  Supervisora da Residência de Enfermagem Intensiva no HGRS.
+  Coordenadora da Comissão de Residência Multiprofissional
+  do HGRS e Coordenadora da Comissão de Sistematização da Assistência de Enfermagem do HGRS.
+  Docente do curso de enfermagem do Centro Universitário Estácio da Bahia."
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
+-
+  id: 22
+  name: "Dr. Rubem"
+  surname: "Oliveira Filho"
+  # company: ""
+  title: "Intensiva AMIB"
+  bio: "Especialista em terapia intensiva pela AMIB.
+  Coordenador da UTI 2 do Hospital Agenor Paiva
+  Coordenador da Semi Intensiva do Hospital Roberto Santos"
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
+-
+  id: 23
+  name: "Dr. Edson"
+  surname: "Marques"
+  # company: ""
+  title: "Intensivista
+          Nefrologista pela SBN"
+  bio: "Coordenador da residência  de terapia intensiva do hospital Santa Isabel
+        coordenador da uti cirúrgica do Hospital Santa Isabel
+        coordenador do serviço de medicina critica do Hospital Cardio Pulmonar"
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
+-
+  id: 24
+  name: "Dr. Alex"
+  surname: "Ferreira de Brito"
+  # company: ""
+  title: "Intensivista ABMIB
+          Cirurgião Geral"
+  bio: "Residência Médica em Cirurgia Geral e em Medicina Intensiva (Titulado pela AMIB).
+        Coordenador das UTIs do Hospital Geral Ernesto Simões (UTI2) e da UTI do Hospital Medicina Humana.
+        Diretor do Hospital Medicina Humana.
+        Plantonista da UTI do Hospital das Clínicas.
+        Preceptor da Residência de Clínica Médica do Hospital Geral Ernesto Simões Filho"
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
+-
+  id: 25
+  name: "Dr. Vinicius"
+  surname: "Silva Oliveira"
+  # company: ""
+  title: "Fisioterapeuta"
+  bio: "Especialista em Terapia Intensiva baseada na Funcionalidade
+        Especialista em Neurofuncional
+        Especialista no Conceito Bobath pelo IBITA
+        Especialista no Conceito PNF pelo IPNFA
+        Coordenador técnico da CTI do HGCA"
+  thumbnailUrl: palestrante15.jpeg
   rockstar: true
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}

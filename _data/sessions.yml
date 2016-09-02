@@ -37,6 +37,17 @@
   video: ""
   presentation: ""
 -
+  id: 015
+  title: "SEPSE-3: Novas definições e implicações"
+  description: ""
+  subtype: apresentação
+  speakers: [7]
+  language: pt
+  complexity: ""
+  presentation: ""
+  video: ""
+  presentation: ""
+-
   id: 003
   title: "Mesa Redonda: O paciente Cirúrgico na UTI"
   description: ""
@@ -47,17 +58,17 @@
   presentation: ""
   video: ""
   presentation: ""
--
-  id: 004
-  title: "Manejo peri operatório dos pacientens de alto risco"
-  description: ""
-  subtype: apresentação
-  speakers: []
-  language: pt
-  complexity: ""
-  presentation: ""
-  video: ""
-  presentation: ""
+#-
+#  id: 004
+#  title: "Manejo peri operatório dos pacientens de alto risco"
+#  description: ""
+#  subtype: apresentação
+#  speakers: []
+#  language: pt
+#  complexity: ""
+#  presentation: ""
+#  video: ""
+#  presentation: ""
 -
   id: 005
   title: "Assistência de enfermagem no Pós Operatório do doente crítico"
@@ -140,7 +151,7 @@
   title: "Mudando o prognóstico com mobilização precoce"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [25]
   language: pt
   complexity: ""
   presentation: ""
@@ -169,17 +180,6 @@
   video: ""
   presentation: ""
 -
-  id: 015
-  title: "SEPSE-3: Novas definições e implicações"
-  description: ""
-  subtype: apresentação
-  speakers: [7]
-  language: pt
-  complexity: ""
-  presentation: ""
-  video: ""
-  presentation: ""
--
   id: 016
   title: "O paciente séptico na UTI"
   description: ""
@@ -194,7 +194,7 @@
   title: "Estratégia para uso relacional de antibióticos: programa <i>stewardship</i>"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [19]
   language: pt
   complexity: ""
   presentation: ""
@@ -244,7 +244,7 @@
   title: "Manejo seguro de medicações na UTI"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [21]
   language: pt
   complexity: ""
   presentation: ""
@@ -284,7 +284,7 @@
   title: "PRO"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [22]
   language: pt
   complexity: ""
   presentation: ""
@@ -294,7 +294,7 @@
   title: "CON"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [23]
   language: pt
   complexity: ""
   presentation: ""
@@ -314,7 +314,7 @@
   title: "Target para inicio da terapia de substituição renal"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [23]
   language: pt
   complexity: ""
   presentation: ""
@@ -324,7 +324,7 @@
   title: "Posição PRONA - Quando, em quem, como?"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [24]
   language: pt
   complexity: ""
   presentation: ""
@@ -364,7 +364,7 @@
   title: "PCR: revisão da atual diretriz"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [6]
   language: pt
   complexity: ""
   presentation: ""
@@ -394,7 +394,7 @@
   title: "Caso clínico - SARA GRAVE"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [18]
   language: pt
   complexity: ""
   presentation: ""
@@ -414,7 +414,7 @@
   title: "Na abordagem do choque"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [11]
   language: pt
   complexity: ""
   presentation: ""
@@ -424,7 +424,7 @@
   title: "Na abordagem do IRPA"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [9]
   language: pt
   complexity: ""
   presentation: ""
@@ -434,7 +434,7 @@
   title: "No auxílio para procedimentos"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [9]
   language: pt
   complexity: ""
   presentation: ""
@@ -444,7 +444,7 @@
   title: "No desmame ventilatório"
   description: ""
   subtype: apresentação
-  speakers: []
+  speakers: [20]
   language: pt
   complexity: ""
   presentation: ""

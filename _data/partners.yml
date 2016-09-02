@@ -9,6 +9,7 @@
     - {name: "Astra", description: "Astra", link: "http://www.astrazeneca.com.br/2011/index.asp", imageUrl: "patrocinio-astra.gif"}
     - {name: "Bayer", description: "Bayer", link: "https://www.bayer.com.br/", imageUrl: "patrocinio-bayer.jpeg"}
     - {name: "Astellas", description: "Astellas", link: "http://www.astellasfarma.com.br/", imageUrl: "patrocinio-astellas.gif"}
+    - {name: "United Medical", description: "United Medical", link: "http://unitedmedical.com.br/unitedmedicalweb/", imageUrl: "patrocinio-unitedMedical.jpg"}
 
 # -
 #   group: "With support of"
