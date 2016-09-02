@@ -165,7 +165,7 @@ Superintende Técnico do Instituto Gerir"
 -
   id: 21
   name: "Dr. Carina"
-  surname: "Marinho Picanso"
+  surname: "Marinho Picanço"
   # company: ""
   title: "Intensivista"
   bio: "Mestre em enfermagem
@@ -226,6 +226,22 @@ Superintende Técnico do Instituto Gerir"
         Coordenador técnico da CTI do HGCA"
   thumbnailUrl: palestrante15.jpeg
   rockstar: true
+-
+  id: 26
+  name: "Dr. Luciano"
+  surname: "Bastos"
+  # company: ""
+  title: ""
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
+-
+  id: 27
+  name: "Dr. Gilson"
+  surname: "Feitosa Filho"
+  # company: ""
+  title: ""
+  thumbnailUrl: silhueta.jpeg
+  rockstar: false
   # ribbon:
   #   - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
