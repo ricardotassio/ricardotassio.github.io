@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecaf6ce2-3b5d-49b2-81ba-ea8588d418d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/speakers.yml" afterPath="$PROJECT_DIR$/_data/speakers.yml" />
     </list>
     <ignored path="sitiba.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +46,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1179">
-              <caret line="292" column="2" selection-start-line="292" selection-start-column="2" selection-end-line="292" selection-end-column="2" />
+            <state relative-caret-position="174">
+              <caret line="134" column="198" selection-start-line="134" selection-start-column="198" selection-end-line="134" selection-end-column="198" />
               <folding />
             </state>
           </provider>
@@ -247,12 +245,12 @@
       <workItem from="1471873753158" duration="2219000" />
       <workItem from="1472842116008" duration="5900000" />
       <workItem from="1473079239512" duration="682000" />
-      <workItem from="1473965402851" duration="289000" />
+      <workItem from="1473965402851" duration="400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28775000" />
+    <option name="totallyTimeSpent" value="28886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="41" width="1280" height="677" extended-state="0" />
@@ -556,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1179">
-          <caret line="292" column="2" selection-start-line="292" selection-start-column="2" selection-end-line="292" selection-end-column="2" />
+        <state relative-caret-position="174">
+          <caret line="134" column="198" selection-start-line="134" selection-start-column="198" selection-end-line="134" selection-end-column="198" />
           <folding />
         </state>
       </provider>

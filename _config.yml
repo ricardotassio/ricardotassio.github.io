@@ -132,8 +132,8 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 
 # Tickets Block
-ticketsTitle: "As isncrições pelo site foram encerradas! "
-ticketsInfo: "Ainda estamos fazendo as inscrições presencialmente na Mederi e no dia do Evento. Garanta logo a sua oprtunidade pois as vagas são limitadas!"
+ticketsTitle: "As isncrições pelo site foram encerradas! Ainda estamos fazendo as inscrições presencialmente na Mederi e no dia do Evento. Garanta logo a sua oprtunidade pois as vagas são limitadas!"
+ticketsInfo: ""
 ticketsOffers:
  -
   name: "Curso de Via Aérea (Médicos Associados AMIB/SOTIBA ou Outros profissionais)"
